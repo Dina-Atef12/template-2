@@ -212,7 +212,7 @@
     padding: 50px; 
     background-color: var(--transparent-color); 
     color: white;
-    display: flex;
+    display: flex; 
     justify-content: flex-end;
   }
   .landing .text .content {
