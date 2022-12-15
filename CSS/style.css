@@ -319,7 +319,7 @@
     position: relative; 
     background-image: url("../images/background.jpg"); 
     background-size: cover; 
-    display: flex;
+    display: flex; 
     align-items: center;
     overflow: hidden;
   }
