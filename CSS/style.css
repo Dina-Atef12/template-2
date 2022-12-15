@@ -317,7 +317,7 @@
     padding-bottom: var(--section-padding); 
     height: 600px; 
     position: relative; 
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background.jpg"); 
     background-size: cover;
     display: flex;
     align-items: center;
