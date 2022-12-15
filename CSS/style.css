@@ -144,7 +144,7 @@
       display: none;
     }
     header nav .toggle-menu:hover + ul {
-      display: flex;
+      display: flex; 
       flex-direction: column;
       position: absolute;
       top: 100%;
