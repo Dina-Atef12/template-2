@@ -180,7 +180,7 @@
   }
   header nav .form i {
     color: white; 
-    position: absolute;
+    position: absolute; 
     font-size: 20px;
     top: 50%;
     transform: translateY(-50%);
