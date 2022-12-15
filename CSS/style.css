@@ -289,7 +289,7 @@
     display: flex; 
   }
   .services .srv-box i {
-    margin-right: 50px;
+    margin-right: 50px; 
   }
   @media (max-width: 767px) {
     .services .srv-box {
