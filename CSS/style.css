@@ -379,7 +379,7 @@
   }
   .portfolio .shuffle {
     display: flex; 
-    justify-content: center;
+    justify-content: center; 
   }
   .portfolio .shuffle li {
     padding: 10px;
