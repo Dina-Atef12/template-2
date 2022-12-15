@@ -343,7 +343,7 @@
   }
   @media (max-width: 767px) {
     .design .image {
-      display: none;
+      display: none; 
     }
   }
   .design .image img {
