@@ -56,7 +56,7 @@
   /* End Global Rules */ 
   /* Start Components */ 
   .main-heading {
-    text-align: center;
+    text-align: center; 
   }
   .main-heading h2 {
     font-weight: normal;
