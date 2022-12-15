@@ -263,7 +263,7 @@
   .landing .bullets li {
     width: 20px; 
     height: 20px; 
-    border: 1px solid white;
+    border: 1px solid white; 
     border-radius: 50%;
     margin-right: 10px;
   }
