@@ -257,7 +257,7 @@
     position: absolute; 
     left: 50%; 
     transform: translateX(-50%); 
-    bottom: 30px;
+    bottom: 30px; 
     display: flex;
   }
   .landing .bullets li {
