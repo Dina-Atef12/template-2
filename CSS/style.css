@@ -320,7 +320,7 @@
     background-image: url("../images/background.jpg"); 
     background-size: cover; 
     display: flex; 
-    align-items: center;
+    align-items: center; 
     overflow: hidden;
   }
   .design::before {
