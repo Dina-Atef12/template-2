@@ -128,7 +128,7 @@
     justify-content: flex-end;
   }
   header nav .toggle-menu {
-    color: white;
+    color: white; 
     font-size: 22px;
   }
   @media (min-width: 768px) {
