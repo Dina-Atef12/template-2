@@ -286,7 +286,7 @@
     }
   }
   .services .srv-box {
-    display: flex;
+    display: flex; 
   }
   .services .srv-box i {
     margin-right: 50px;
