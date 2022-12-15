@@ -351,7 +351,7 @@
     bottom: -150px; 
   }
   .design .text {
-    color: white;
+    color: white; 
     padding: 50px;
     background-color: var(--transparent-color);
   }
