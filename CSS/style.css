@@ -314,7 +314,7 @@
   /* Start Design */ 
   .design {
     padding-top: var(--section-padding); 
-    padding-bottom: var(--section-padding);
+    padding-bottom: var(--section-padding); 
     height: 600px;
     position: relative;
     background-image: url("../images/background.jpg");
