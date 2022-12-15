@@ -334,7 +334,7 @@
   }
   .design .image,
   .design .text {
-    position: relative;
+    position: relative; 
     z-index: 2;
     flex: 1;
   }
