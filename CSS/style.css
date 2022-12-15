@@ -339,7 +339,7 @@
     flex: 1; 
   }
   .design .image {
-    text-align: center;
+    text-align: center; 
   }
   @media (max-width: 767px) {
     .design .image {
