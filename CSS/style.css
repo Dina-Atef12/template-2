@@ -375,10 +375,10 @@
   /* Start Portfolio */ 
   .portfolio {
     padding-top: var(--section-padding); 
-    padding-bottom: var(--section-padding); 
+    padding-bottom: var(--section-padding);  
   }
   .portfolio .shuffle {
-    display: flex;
+    display: flex; 
     justify-content: center;
   }
   .portfolio .shuffle li {
