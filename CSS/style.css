@@ -321,7 +321,7 @@
     background-size: cover; 
     display: flex; 
     align-items: center; 
-    overflow: hidden;
+    overflow: hidden; 
   }
   .design::before {
     content: "";
