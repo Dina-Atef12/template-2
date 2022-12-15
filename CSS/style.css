@@ -116,7 +116,7 @@
     background-color: #a2a2a2;
     bottom: 0; 
     width: calc(100% - 30px); 
-    left: 15px;
+    left: 15px; 
   }
   header .logo img {
     height: 40px;
