@@ -385,7 +385,7 @@
     padding: 10px; 
   }
   .portfolio .shuffle li.active {
-    background-color: var(--main-color);
+    background-color: var(--main-color); 
     color: white;
   }
   .portfolio .imgs-container {
