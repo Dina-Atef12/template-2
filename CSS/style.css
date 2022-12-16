@@ -573,7 +573,7 @@
     padding-bottom: var(--section-padding); 
   }
   .our-skills .container {
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     flex-wrap: wrap;
   }
