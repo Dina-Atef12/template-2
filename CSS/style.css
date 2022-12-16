@@ -136,7 +136,7 @@
       display: none; 
     }
   }
-  header nav ul {
+  header nav ul  {
     display: flex; 
   }
   @media (max-width: 767px) {
