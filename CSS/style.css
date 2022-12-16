@@ -525,7 +525,7 @@
   }
   .stats .container {
     position: relative; 
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
   }
   .stats .container .box {
