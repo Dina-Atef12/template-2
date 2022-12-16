@@ -671,7 +671,7 @@
     border-radius: 4px; 
   }
   .our-skills .skills .prog-holder .prog span::after {
-    content: "";
+    content: ""; 
     position: absolute;
     border-style: solid;
     border-width: 8px;
