@@ -531,7 +531,7 @@
   .stats .container .box {
     color: white; 
     padding: 50px; 
-    background-color: var(--transparent-color);
+    background-color: var(--transparent-color); 
   }
   @media (max-width: 767px) {
     .stats .container .box {
