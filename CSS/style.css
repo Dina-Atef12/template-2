@@ -660,7 +660,7 @@
   }
   .our-skills .skills .prog-holder .prog span::before {
     content: attr(data-progress); 
-    position: absolute;
+    position: absolute; 
     background-color: black;
     color: white;
     top: -40px;
