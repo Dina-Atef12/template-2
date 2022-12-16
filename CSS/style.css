@@ -553,7 +553,7 @@
     height: 40px; 
     display: flex;  
     background-color: black; 
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
     border-radius: 50%;
     margin: 0 auto 30px;
