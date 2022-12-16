@@ -394,7 +394,7 @@
     margin-top: 60px; 
   }
   .portfolio .imgs-container .box {
-    overflow: hidden;
+    overflow: hidden; 
     position: relative;
   }
   .portfolio .imgs-container .box:hover .caption {
