@@ -871,7 +871,7 @@
   }
   .contact .content  {
     display: flex; 
-    justify-content: space-between;
+    justify-content: space-between; 
   }
   @media (max-width: 767px) {
     .contact .content {
