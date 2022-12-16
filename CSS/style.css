@@ -405,7 +405,7 @@
   }
   @media (min-width: 768px) {
     .portfolio .imgs-container .box {
-      flex-basis: 50%;
+      flex-basis: 50%; 
     }
   }
   @media (min-width: 1199px) {
