@@ -720,7 +720,7 @@
   }
   .pricing .plans .plan {
     background-color: #fcfcfc; 
-    text-align: center;
+    text-align: center; 
   }
   .pricing .plans .plan .head {
     padding: 40px 20px;
