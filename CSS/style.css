@@ -797,7 +797,7 @@
     background-image: url("../images/subscribe 1.jpg"); 
     background-size: cover; 
     position: relative; 
-    color: white;
+    color: white; 
   }
   .subscribe::before {
     content: "";
