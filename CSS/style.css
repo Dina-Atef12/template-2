@@ -964,7 +964,7 @@
   .footer .container  {
     position: relative; 
   }
-  .footer img {
+  .footer img  {
     margin-bottom: 20px;
   }
   .footer p:not(.copyright) {
