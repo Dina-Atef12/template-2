@@ -65,7 +65,7 @@
     margin-bottom: 70px; 
     text-transform: uppercase; 
   }
-  .main-heading h2::before {
+  .main-heading h2::before  {
     content: ""; 
     position: absolute; 
     left: 50%;
