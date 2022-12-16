@@ -737,7 +737,7 @@
     font-weight: bold; 
   }
   .pricing .plans .plan .head span::before {
-    content: "$";
+    content: "$"; 
     font-size: 25px;
     position: relative;
     top: -40px;
