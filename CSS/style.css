@@ -754,7 +754,7 @@
     border-bottom: 1px solid var(--main-color); 
   }
   .pricing .plans .plan ul li {
-    padding: 20px;
+    padding: 20px; 
     position: relative;
   }
   .pricing .plans .plan ul li:not(:last-child)::after {
