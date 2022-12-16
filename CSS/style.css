@@ -675,7 +675,7 @@
     position: absolute; 
     border-style: solid; 
     border-width: 8px; 
-    border-color: black transparent transparent;
+    border-color: black transparent transparent; 
     right: -8px;
     top: -15px;
   }
