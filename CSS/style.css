@@ -769,7 +769,7 @@
   }
   .pricing .plans .plan .foot a {
     display: block; 
-    padding: 20px 20px;
+    padding: 20px 20px; 
     text-decoration: none;
     border: 1px solid var(--main-color);
     width: fit-content;
