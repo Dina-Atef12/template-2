@@ -946,7 +946,7 @@
   .footer  {
     padding-top: calc(var(--section-padding) / 2); 
     padding-bottom: calc(var(--section-padding) / 2); 
-    background-image: url("../images/logo.PNG");
+    background-image: url("../images/logo.PNG"); 
     background-size: cover;
     position: relative;
     color: white;
