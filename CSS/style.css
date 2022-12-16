@@ -815,7 +815,7 @@
   }
   @media (max-width: 991px) {
     .subscribe .container {
-      flex-direction: column;
+      flex-direction: column; 
     }
   }
   .subscribe form {
