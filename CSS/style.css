@@ -870,7 +870,7 @@
     padding-bottom: var(--section-padding); 
   }
   .contact .content  {
-    display: flex;
+    display: flex; 
     justify-content: space-between;
   }
   @media (max-width: 767px) {
