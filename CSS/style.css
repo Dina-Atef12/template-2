@@ -900,7 +900,7 @@
     padding: 20px; 
     border: none; 
     display: flex; 
-    margin-left: auto;
+    margin-left: auto; 
     text-transform: uppercase;
     cursor: pointer;
   }
