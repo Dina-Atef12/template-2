@@ -395,7 +395,7 @@
   }
   .portfolio .imgs-container .box {
     overflow: hidden; 
-    position: relative;
+    position: relative; 
   }
   .portfolio .imgs-container .box:hover .caption {
     bottom: 0;
