@@ -121,7 +121,7 @@
   header .logo img {
     height: 40px;  
   }
-  header nav  {
+  header nav {
     flex: 1;
     display: flex; 
     align-items: center; 
