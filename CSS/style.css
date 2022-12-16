@@ -852,7 +852,7 @@
     outline: none; 
   }
   .subscribe form ::placeholder {
-    color: white;
+    color: white; 
   }
   .subscribe p {
     line-height: 2;
