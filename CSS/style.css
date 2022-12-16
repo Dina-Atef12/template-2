@@ -512,7 +512,7 @@
     text-align: center; 
     background-image: url("../images/stats2.webp"); 
     background-size: cover; 
-    position: relative;
+    position: relative; 
   }
   .stats::before {
     content: "";
