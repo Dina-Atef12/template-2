@@ -686,7 +686,7 @@
     padding-bottom: var(--section-padding); 
     background-image: url("../images/quote.jpg"); 
     background-size: cover; 
-    position: relative;
+    position: relative; 
     text-align: center;
     color: white;
   }
