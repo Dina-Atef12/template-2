@@ -961,7 +961,7 @@
     height: 100%; 
     background-color: rgb(0 0 0 / 70%); 
   }
-  .footer .container {
+  .footer .container  {
     position: relative;
   }
   .footer img {
