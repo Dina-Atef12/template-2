@@ -667,7 +667,7 @@
     right: -18px; 
     padding: 4px 0; 
     width: 40px; 
-    text-align: center;
+    text-align: center; 
     border-radius: 4px;
   }
   .our-skills .skills .prog-holder .prog span::after {
