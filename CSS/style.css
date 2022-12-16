@@ -869,7 +869,7 @@
     padding-top: var(--section-padding); 
     padding-bottom: var(--section-padding); 
   }
-  .contact .content {
+  .contact .content  {
     display: flex;
     justify-content: space-between;
   }
