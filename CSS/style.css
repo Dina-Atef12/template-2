@@ -549,7 +549,7 @@
     }
   }
   .stats .container .box i {
-    width: 40px;
+    width: 40px; 
     height: 40px;
     display: flex;
     background-color: black;
