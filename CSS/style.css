@@ -981,7 +981,7 @@
   .footer .copyright  {
     margin-top: 60px; 
   }
-  .footer .copyright span {
+  .footer .copyright span  {
     font-weight: bold;
     color: var(--main-color);
   }
