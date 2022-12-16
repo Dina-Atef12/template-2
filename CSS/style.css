@@ -419,7 +419,7 @@
   }
   .portfolio .imgs-container .box .caption {
     position: absolute; 
-    left: 0;
+    left: 0; 
     padding: 20px;
     background-color: white;
     width: 100%;
