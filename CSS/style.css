@@ -638,7 +638,7 @@
   }
   .our-skills .testimonials .bullets li.active {
     background-color: var(--main-color);  
-    border-color: var(--main-color); 
+    border-color: var(--main-color);  
   }
   .our-skills .skills .prog-holder {
     margin-bottom: 40px; 
