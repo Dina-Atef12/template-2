@@ -763,7 +763,7 @@
     height: 1px; 
     background-color: var(--main-color); 
     position: absolute; 
-    left: 50%;
+    left: 50%; 
     transform: translateX(-50%);
     bottom: 0;
   }
