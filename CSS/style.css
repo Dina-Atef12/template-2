@@ -480,7 +480,7 @@
   }
   .video .text button {
     background-color: black; 
-    color: white;
+    color: white; 
     padding: 10px 20px;
     border: none;
     text-transform: uppercase;
