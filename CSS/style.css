@@ -842,7 +842,7 @@
     width: 130px; 
     background-color: var(--main-color); 
     color: white; 
-    padding: 10px 20px;
+    padding: 10px 20px; 
     border: 1px solid white;
     border-left: none;
     text-transform: uppercase;
