@@ -500,7 +500,7 @@
   }
   @media (max-width: 767px) {
     .about img {
-      bottom: -60px;
+      bottom: -60px; 
       margin-top: -60px;
     }
   }
