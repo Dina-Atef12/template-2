@@ -579,7 +579,7 @@
   }
   @media (min-width: 992px) {
     .our-skills .container > div {
-      flex-basis: 45%;
+      flex-basis: 45%; 
     }
   }
   .our-skills .container > div > h3 {
