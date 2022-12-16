@@ -472,7 +472,7 @@
   }
   .video .text h2 {
     margin: 0 0 30px; 
-    text-transform: uppercase;
+    text-transform: uppercase; 
     font-weight: normal;
   }
   .video .text p {
