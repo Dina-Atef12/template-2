@@ -826,7 +826,7 @@
   }
   .subscribe form i {
     position: absolute; 
-    top: 50%;
+    top: 50%; 
     transform: translateY(-50%);
     left: 25px;
   }
