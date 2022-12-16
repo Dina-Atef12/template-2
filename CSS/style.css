@@ -509,7 +509,7 @@
   .stats {
     padding-top: var(--section-padding); 
     padding-bottom: var(--section-padding); 
-    text-align: center;
+    text-align: center; 
     background-image: url("../images/stats2.webp");
     background-size: cover;
     position: relative;
