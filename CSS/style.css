@@ -773,7 +773,7 @@
     text-decoration: none; 
     border: 1px solid var(--main-color); 
     width: fit-content; 
-    margin: 30px auto;
+    margin: 30px auto; 
   }
   .pricing .contact-text {
     text-align: center;
