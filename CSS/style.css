@@ -819,7 +819,7 @@
     }
   }
   .subscribe form {
-    display: flex;
+    display: flex; 
     position: relative;
     width: 500px;
     max-width: 100%;
