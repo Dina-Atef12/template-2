@@ -625,7 +625,7 @@
   }
   .our-skills .testimonials .bullets {
     display: flex; 
-    justify-content: center;
+    justify-content: center; 
     margin-top: 50px;
     margin-bottom: 50px;
   }
