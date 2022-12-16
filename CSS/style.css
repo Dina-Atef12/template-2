@@ -844,7 +844,7 @@
     color: white; 
     padding: 10px 20px; 
     border: 1px solid white; 
-    border-left: none;
+    border-left: none; 
     text-transform: uppercase;
   }
   .subscribe form input[type="email"]:focus,
