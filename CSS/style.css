@@ -494,7 +494,7 @@
   }
   .about img {
     position: relative; 
-    bottom: -120px;
+    bottom: -120px; 
     margin-top: -120px;
     max-width: 100%;
   }
