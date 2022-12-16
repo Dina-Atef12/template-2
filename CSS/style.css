@@ -759,7 +759,7 @@
   }
   .pricing .plans .plan ul li:not(:last-child)::after {
     content: ""; 
-    width: 140px;
+    width: 140px; 
     height: 1px;
     background-color: var(--main-color);
     position: absolute;
