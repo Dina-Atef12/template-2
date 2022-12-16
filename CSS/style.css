@@ -386,10 +386,10 @@
   }
   .portfolio .shuffle li.active {
     background-color: var(--main-color); 
-    color: white; 
+    color: white;  
   }
   .portfolio .imgs-container {
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
     margin-top: 60px;
   }
