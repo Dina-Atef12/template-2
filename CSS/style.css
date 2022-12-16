@@ -748,7 +748,7 @@
     content: "/Mo"; 
     font-size: 20px; 
     position: relative; 
-    right: -15px;
+    right: -15px; 
   }
   .pricing .plans .plan ul {
     border-bottom: 1px solid var(--main-color);
