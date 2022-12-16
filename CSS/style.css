@@ -423,7 +423,7 @@
     padding: 20px; 
     background-color: white; 
     width: 100%; 
-    transition: 0.3s;
+    transition: 0.3s; 
     bottom: -100%;
   }
   .portfolio .imgs-container .box .caption h4 {
