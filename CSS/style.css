@@ -510,7 +510,7 @@
     padding-top: var(--section-padding); 
     padding-bottom: var(--section-padding); 
     text-align: center; 
-    background-image: url("../images/stats2.webp");
+    background-image: url("../images/stats2.webp"); 
     background-size: cover;
     position: relative;
   }
