@@ -654,7 +654,7 @@
   }
   .our-skills .skills .prog-holder .prog span {
     display: block; 
-    background-color: var(--main-color);
+    background-color: var(--main-color); 
     height: 100%;
     position: relative;
   }
