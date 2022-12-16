@@ -975,7 +975,7 @@
     width: fit-content; 
     margin: 20px auto; 
   }
-  .footer .social-icons i {
+  .footer .social-icons i  {
     padding: 10px 15px;
   }
   .footer .copyright {
