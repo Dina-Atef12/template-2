@@ -468,7 +468,7 @@
     padding: 50px; 
     background-color: var(--transparent-color); 
     color: white; 
-    text-align: center;
+    text-align: center; 
   }
   .video .text h2 {
     margin: 0 0 30px;
