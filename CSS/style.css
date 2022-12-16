@@ -967,7 +967,7 @@
   .footer img  {
     margin-bottom: 20px; 
   }
-  .footer p:not(.copyright) {
+  .footer p:not(.copyright)  {
     text-transform: uppercase;
     padding: 20px;
     border-bottom: 1px solid white;
