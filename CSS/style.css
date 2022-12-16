@@ -796,7 +796,7 @@
     padding-bottom: var(--section-padding); 
     background-image: url("../images/subscribe 1.jpg"); 
     background-size: cover; 
-    position: relative;
+    position: relative; 
     color: white;
   }
   .subscribe::before {
