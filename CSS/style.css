@@ -551,7 +551,7 @@
   .stats .container .box i {
     width: 40px; 
     height: 40px; 
-    display: flex;
+    display: flex;  
     background-color: black;
     justify-content: center;
     align-items: center;
