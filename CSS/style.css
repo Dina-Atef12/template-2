@@ -952,7 +952,7 @@
     color: white; 
     text-align: center; 
   }
-  .footer::before {
+  .footer::before { 
     content: "";
     position: absolute;
     left: 0;
