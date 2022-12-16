@@ -688,7 +688,7 @@
     background-size: cover; 
     position: relative; 
     text-align: center; 
-    color: white;
+    color: white; 
   }
   .quote::before {
     content: "";
