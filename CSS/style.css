@@ -910,7 +910,7 @@
   @media (max-width: 767px) {
     .contact .content .info {
        order: -1; 
-      text-align: center; 
+      text-align: center;  
     }
   }
   .contact .content .info h4  {
