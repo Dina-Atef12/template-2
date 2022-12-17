@@ -793,7 +793,7 @@
   /* Start Subscribe */   
   .subscribe {
     padding-top: var(--section-padding);  
-    padding-bottom: var(--section-padding); 
+    padding-bottom: var(--section-padding);  
     background-image: url("../images/subscribe 1.jpg"); 
     background-size: cover; 
     position: relative; 
