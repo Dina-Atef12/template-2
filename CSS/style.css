@@ -702,7 +702,7 @@
   .quote .container {
     position: relative; 
   }
-  .quote q {
+  .quote q  {
     font-size: 30px; 
     margin-bottom: 20px; 
     display: block; 
