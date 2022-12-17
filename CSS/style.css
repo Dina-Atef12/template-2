@@ -902,7 +902,7 @@
     display: flex;  
     margin-left: auto; 
     text-transform: uppercase;  
-    cursor: pointer; 
+    cursor: pointer;  
   }
   .contact .content .info {
     flex-basis: 25%;
