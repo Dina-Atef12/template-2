@@ -791,7 +791,7 @@
   }
   /* End Pricing */  
   /* Start Subscribe */  
-  .subscribe {
+  .subscribe  {
     padding-top: var(--section-padding); 
     padding-bottom: var(--section-padding); 
     background-image: url("../images/subscribe 1.jpg"); 
