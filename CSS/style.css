@@ -896,7 +896,7 @@
   }
   .contact .content form input[type="submit"] {
     background-color: var(--main-color);  
-    color: white; 
+    color: white;  
     padding: 20px; 
     border: none; 
     display: flex; 
