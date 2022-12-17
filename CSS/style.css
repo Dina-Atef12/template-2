@@ -898,7 +898,7 @@
     background-color: var(--main-color);  
     color: white;  
     padding: 20px;  
-    border: none; 
+    border: none;  
     display: flex; 
     margin-left: auto; 
     text-transform: uppercase; 
