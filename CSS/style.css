@@ -949,7 +949,7 @@
     background-image: url("../images/logo.PNG");  
     background-size: cover;  
     position: relative;  
-    color: white; 
+    color: white;  
     text-align: center; 
   }
   .footer::before { 
