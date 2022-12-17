@@ -764,7 +764,7 @@
     background-color: var(--main-color);  
     position: absolute;   
     left: 50%;  
-    transform: translateX(-50%); 
+    transform: translateX(-50%);  
     bottom: 0; 
   }
   .pricing .plans .plan .foot a {
